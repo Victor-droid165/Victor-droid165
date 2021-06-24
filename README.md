@@ -1,14 +1,14 @@
 ## Olá! Eu sou o Victor Emanuel
  <div>
-  <table width="100%">
+  <table width="100%" cellspacing="0" cellpadding="0">
    <tr>
     <td width = "50%">
      <br>
-     <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Victor-droid165&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="malbolgee" /></p>
+     <p align="center"><img width="90%" src="https://github-readme-stats.vercel.app/api?username=Victor-droid165&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="malbolgee" /></p>
     </td>
     <td width = "50%">
      <br>
-     <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-droid165&layout=compact&langs_count=16&theme=dracula" /></p>
+    <p align="center"><img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-droid165&layout=compact&langs_count=16&theme=dracula" /></p>
   </td>
  </table>
 </div>
@@ -28,9 +28,9 @@
  
 <div> 
   <a href="https://www.instagram.com/victor.cpp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-emanuel-barbosa-rodrigues-544114214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victor-emanuel-barbosa-rodrigues-544114214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:https://mailhide.io/e/08RrrNzp"><img src="https://img.shields.io/badge/email-reveal-2a8?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/Victor-droid165/Victor-droid165/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
