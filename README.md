@@ -4,11 +4,11 @@
    <tr>
     <td width = "50%">
      <br>
-     <p align="center"><img width="90%" src="https://github-readme-stats.vercel.app/api?username=Victor-droid165&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="malbolgee" /></p>
+     <p align="center"><img width="90%" src="https://github-readme-stats.vercel.app/api?username=Victor-droid165&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /></p>
     </td>
     <td width = "50%">
      <br>
-    <p align="center"><img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-droid165&layout=compact&langs_count=16&theme=dracula" /></p>
+    <p align="center"><img width="90%" src="https://github-readme-stats.vercel.app/api?username=Victor-droid165&show_icons=true&theme=dracula" /></p>
   </td>
  </table>
 </div>
