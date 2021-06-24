@@ -1,8 +1,16 @@
 ## Olá! Eu sou o Victor Emanuel
  <div>
-  <a href="https://github.com/Victor-droid165">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor-droid165&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-droid165&layout=compact&langs_count=16&theme=dracula"/>
+  <table width="100%">
+   <tr>
+    <td width = "50%">
+     <br>
+     <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Victor-droid165&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="malbolgee" /></p>
+    </td>
+    <td width = "50%">
+     <br>
+     <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-droid165&layout=compact&langs_count=16&theme=dracula" /></p>
+  </td>
+ </table>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
