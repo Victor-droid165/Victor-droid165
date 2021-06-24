@@ -8,7 +8,7 @@
     </td>
     <td width = "50%">
      <br>
-    <p align="center"><img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-droid165&layout=compact&langs_count=16&theme=dracula" /></p>
+    <p align="center"><img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-droid165&layout=compact&langs_count=true&theme=dracula" /></p>
   </td>
  </table>
 </div>
