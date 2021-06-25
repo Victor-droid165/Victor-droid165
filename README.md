@@ -33,9 +33,8 @@
  
   ![Snake animation](https://github.com/Victor-droid165/Victor-droid165/blob/output/github-contribution-grid-snake.svg)
   <p align="center"> 
- ##
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/Victor-droid165/count.svg" />
  </p>
 
 </p>
